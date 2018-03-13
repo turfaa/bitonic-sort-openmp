@@ -1,6 +1,6 @@
-CC=clang-omp
+CC = cc
 CFLAGS = -fopenmp
-OBJECTS= bitonic_sort.o
+OBJECTS = bitonic_sort.o
 
 all: bitonic_sort.o bitonic_sort
 bitonic_sort:   $(OBJECTS)
