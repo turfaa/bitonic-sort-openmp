@@ -1,4 +1,4 @@
-# Perbandingan Kinerja Bitcoin Sort antara Parallel dengan Non-Parallel
+# Perbandingan Kinerja Bitonic Sort antara Parallel dengan Non-Parallel
 - **Turfa Auliarachman** - 13515133
 
 Pembagian tugas: Semua dikerjakan oleh **Turfa Auliarachman**, 13515133.
