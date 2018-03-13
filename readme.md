@@ -51,8 +51,8 @@ OS.
 | 5.000 | 2.030 (**single thread**) <br /> 1.617 (**multithread**) | 2.048 (**single thread**) <br /> 1.559 (**multithread**) | 1.857 (**single thread**) <br /> 1.405 (**multithread**) | 1.978,33 <br /> 1.527 |
 | 50.000 | 18.314 (**single thread**) <br /> 13.844 (**multithread**) | 23.028 (**single thread**) <br /> 16.206 (**multithread**) | 24.423 (**single thread**) <br /> 17.184 (**multithread**) | 21.921,67 <br /> 15.744,67 |
 | 100000 | 27.561 (**single thread**) <br /> 21.032 (**multithread**) | 43.761 (**single thread**) <br /> 31.047 (**multithread**) | 24.398 (**single thread**) <br /> 19.714 (**multithread**) | 31.906,67 <br /> 23.931 |
-| 200.000 | 106333 (**single thread**) <br /> 63754 (**multithread**) | 54543 (**single thread**) <br /> 44309 (**multithread**) | 93858 (**single thread**) <br /> 58053 (**multithread**) | 84.911,33 <br /> 55.372 |
-| 400.000 | 168640 (**single thread**) <br /> 101281 (**multithread**) | 172122 (**single thread**) <br /> 99364 (**multithread**) | 170789 (**single thread**) <br /> 100086 (**multithread**) | 170.517 <br /> 100.243,67 |
+| 200.000 | 106.333 (**single thread**) <br /> 63.754 (**multithread**) | 54.543 (**single thread**) <br /> 44.309 (**multithread**) | 93.858 (**single thread**) <br /> 58.053 (**multithread**) | 84.911,33 <br /> 55.372 |
+| 400.000 | 168.640 (**single thread**) <br /> 101.281 (**multithread**) | 172.122 (**single thread**) <br /> 99.364 (**multithread**) | 170.789 (**single thread**) <br /> 100.086 (**multithread**) | 170.517 <br /> 100.243,67 |
 
 ### Analisis Perbandingan
 Pada percobaan dengan banyak elemen 5.000, terjadi peningkatan kecepatan
